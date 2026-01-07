@@ -30,21 +30,8 @@ Vercel – Live deployment and hosting
 (Edit this list based on your actual tech stack.)
 
 📂 Folder Structure
-portfolio-website/
-│
-├── public/
-│   ├── images/
-│   └── favicon.ico
-│
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── styles/
-│   └── assets/
-│
-├── README.md
-├── package.json
-└── vercel.json
+<img width="458" height="589" alt="image" src="https://github.com/user-attachments/assets/0272d117-777b-4b3c-a307-810efc63ea14" />
+
 
 
 (Modify the structure if your project uses a different layout.)
