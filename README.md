@@ -40,11 +40,13 @@ GitHub– Live deployment and hosting
 
 📁 Source Code:
  https://github.com/durjoyroy068/Personal-Portfolio-Website_Durjoy.git
+
+ 
 👤 Author Information
 
 Name: Durjoy Roy
 
-GitHub: https://github.com/your-github-username
+GitHub: https://github.com/durjoyroy068
 
 Portfolio: https://durjoyroy068.github.io/Personal-Portfolio-Website_Durjoy/
 
