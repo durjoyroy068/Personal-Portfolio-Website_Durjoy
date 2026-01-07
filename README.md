@@ -21,20 +21,15 @@ CSS3 – Styling and responsive design
 
 JavaScript – Interactivity and logic
 
-React.js / Next.js (if applicable)
-
 Git & GitHub – Source code hosting and version control
 
-Vercel – Live deployment and hosting
-
-(Edit this list based on your actual tech stack.)
+GitHub– Live deployment and hosting
+ 
 
 📂 Folder Structure
 <img width="458" height="589" alt="image" src="https://github.com/user-attachments/assets/0272d117-777b-4b3c-a307-810efc63ea14" />
 
 
-
-(Modify the structure if your project uses a different layout.)
 
 🌍 Live Website Link (Vercel)
 
@@ -54,4 +49,4 @@ GitHub: https://github.com/your-github-username
 
 Portfolio: https://your-portfolio-name.vercel.app
 
-Email: your-email@example.com
+Email: durjoyroy068@gmail.com
