@@ -34,19 +34,18 @@ GitHub– Live deployment and hosting
 🌍 Live Website Link (Vercel)
 
 🔗 Live Portfolio:
-https://your-portfolio-name.vercel.app
+  https://durjoyroy068.github.io/Personal-Portfolio-Website_Durjoy/
 
 🧑‍💻 GitHub Repository
 
 📁 Source Code:
-https://github.com/your-github-username/your-repository-name
-
+ https://github.com/durjoyroy068/Personal-Portfolio-Website_Durjoy.git
 👤 Author Information
 
 Name: Durjoy Roy
 
 GitHub: https://github.com/your-github-username
 
-Portfolio: https://your-portfolio-name.vercel.app
+Portfolio: https://durjoyroy068.github.io/Personal-Portfolio-Website_Durjoy/
 
 Email: durjoyroy068@gmail.com
