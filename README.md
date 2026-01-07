@@ -27,6 +27,8 @@ GitHub– Live deployment and hosting
  
 
 📂 Folder Structure
+
+
 <img width="458" height="589" alt="image" src="https://github.com/user-attachments/assets/0272d117-777b-4b3c-a307-810efc63ea14" />
 
 
