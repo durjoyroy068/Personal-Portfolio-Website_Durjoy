@@ -23,7 +23,7 @@ JavaScript – Interactivity and logic
 
 Git & GitHub – Source code hosting and version control
 
-GitHub– Live deployment and hosting
+Vercel– Live deployment and hosting
  
 
 📂 Folder Structure
@@ -36,7 +36,7 @@ GitHub– Live deployment and hosting
 🌍 Live Website Link (Vercel)
 
 🔗 Live Portfolio:
-  https://durjoyroy068.github.io/Personal-Portfolio-Website_Durjoy/
+   personal-portfolio-website-durjoy.vercel.app
 
 🧑‍💻 GitHub Repository
 
